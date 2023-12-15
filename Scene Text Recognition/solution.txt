@@ -1,0 +1,12 @@
+Scene Text Detection Project - Multiple choices answers
+1. A
+2. B
+3. B
+4. B
+5. C
+6. B
+7. A
+8. D
+9. D
+10. C
+11. B

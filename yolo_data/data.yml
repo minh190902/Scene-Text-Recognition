@@ -1,0 +1,7 @@
+names:
+- text
+nc: 1
+path: /content/drive/MyDrive/SceneTextRecognition/Scene Text Recognition/yolo_data
+test: test/images
+train: train/images
+val: val/images
